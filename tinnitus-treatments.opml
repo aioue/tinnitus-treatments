@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<opml version="1.0">
+    <head>
+        <title>T</title>
+        <ownerName></ownerName>
+    </head>
+    <body>
+        <outline text="T">
+            <outline text="Causes">
+                <outline text="Noise-induced hearing loss"></outline>
+                <outline text="Acoustic trauma"></outline>
+            </outline>
+            <outline text="Treatments">
+                <outline text="Surgical">
+                    <outline text="High-Frequency Focussed Ultrasound (HIFU)">
+                        <outline text="Dr. Jeanmonod in Switzerland"></outline>
+                    </outline>
+                    <outline text="AM-102 Intra-tympanic"></outline>
+                    <outline text="AM-101 Intra-tympanic NMDA antagonist"></outline>
+                    <outline text="Nerve repair">
+                        <outline text="olfactory ensheathing cells"></outline>
+                    </outline>
+                </outline>
+                <outline text="Supplements">
+                    <outline text="Vitamins">
+                        <outline text="B-vitamins">
+                            <outline text="B-12">
+                                <outline text="hydroxocobalamin">
+                                    <outline text="methylcobalamin"></outline>
+                                </outline>
+                            </outline>
+                            <outline text="B-3">
+                                <outline text="nicotinamide riboside"></outline>
+                            </outline>
+                        </outline>
+                        <outline text="Taurine"></outline>
+                    </outline>
+                    <outline text="C-phycocyanin"></outline>
+                    <outline text="Uncaria tomentosa (cat’s claw)"></outline>
+                </outline>
+                <outline text="Medicines">
+                    <outline text="Dopamine agonists">
+                        <outline text="pramipexole"></outline>
+                        <outline text="Oroxylin A (reuptake inhibitor)"></outline>
+                        <outline text="{mechanism}">
+                            <outline text="Rasagiline"></outline>
+                            <outline text="Selegiline"></outline>
+                        </outline>
+                    </outline>
+                    <outline text="Muscle relaxants">
+                        <outline text="cyclobenzaprine"></outline>
+                    </outline>
+                    <outline text="Anticoagulants">
+                        <outline text="sulodexide">
+                            <outline text="(+melatonin)"></outline>
+                        </outline>
+                    </outline>
+                    <outline text="Neurotrophic factors">
+                        <outline text="Ladostigil"></outline>
+                        <outline text="Wnt signalling"></outline>
+                        <outline text="c-Met signalling">
+                            <outline text="dihexa (wait for trials, safety)"></outline>
+                        </outline>
+                        <outline text="N-Acetylserotonin"></outline>
+                        <outline text="NSI-189"></outline>
+                        <outline text="PRL-8-53"></outline>
+                        <outline text="Leptin (Hipp)"></outline>
+                        <outline text="Encourage astrocytes"></outline>
+                        <outline text="GCSF"></outline>
+                        <outline text="Isoxazole-9"></outline>
+                        <outline text="Lithium &gt; gephrin &gt; GABA"></outline>
+                        <outline text="http://tht.co/7.8-Dihydroxyflavone.html"></outline>
+                        <outline text="Vascular Endothelial Growth Factor"></outline>
+                    </outline>
+                    <outline text="Acetylcholinesterase inhibitors">
+                        <outline text="Donepezil (1 report of adverse)"></outline>
+                        <outline text="GTS-21"></outline>
+                    </outline>
+                    <outline text="MAOI">
+                        <outline text="Rasagiline"></outline>
+                    </outline>
+                    <outline text="glycine receptor agonists"></outline>
+                    <outline text="antidepressants">
+                        <outline text="amitriptyline"></outline>
+                        <outline text="duloxetine"></outline>
+                    </outline>
+                </outline>
+                <outline text="Other">
+                    <outline text="Fasting">
+                        <outline text="Intermittent">
+                            <outline text="Low cal, high fat"></outline>
+                        </outline>
+                    </outline>
+                    <outline text="Stem cell IV">
+                        <outline text="Cord blood (FDA trials Phase I)"></outline>
+                        <outline text="Mesenchymal"></outline>
+                        <outline text="Adipose"></outline>
+                    </outline>
+                    <outline text="Increase stem cells">
+                        <outline text="Filgrastim"></outline>
+                    </outline>
+                    <outline text="Gene therapy"></outline>
+                    <outline text="Peptides"></outline>
+                    <outline text="LLLT">
+                        <outline text="658nm wavelength, 50-200mW power, GaAlA laser diode"></outline>
+                    </outline>
+                    <outline text="Acupuncture"></outline>
+                    <outline text="CBT"></outline>
+                </outline>
+            </outline>
+            <outline text="Etiology">
+                <outline text="brain dysfunction">
+                    <outline text="dysrhythmia"></outline>
+                    <outline text="brain chemistry">
+                        <outline text="benzodiazepine withdrawal"></outline>
+                    </outline>
+                </outline>
+                <outline text="cochlear">
+                    <outline text="hair-cell damage"></outline>
+                    <outline text="nerve-damage"></outline>
+                </outline>
+                <outline text="muscular-tension"></outline>
+                <outline text="psychological"></outline>
+                <outline text="systems">
+                    <outline text="peripheral auditory system"></outline>
+                    <outline text="central auditory system"></outline>
+                    <outline text="somatosensory system"></outline>
+                    <outline text="neurotransmitters"></outline>
+                </outline>
+            </outline>
+        </outline>
+    </body>
+</opml>
