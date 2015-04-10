@@ -290,3 +290,22 @@ cerebrolysin
  Memantine or another possible NMDA antagonist: Magnesium Threonate (There are several threads about this supplement already).
 
  Arg3.1 expression
+
+
+
+# Tinnitus
+
+Treatments
+----------
+
+### Surgical
+
+* High-Frequency Focussed Ultrasound (HIFU)
+  * http://sonimodul.ch/
+    * Dr. Daniel Jeanmonod in Switzerland
+
+
+* AM101
+  * Auris Medical
+    * NMDA antagonist
+    * intra-tympanic injection
