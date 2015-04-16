@@ -1,139 +1,141 @@
-Tried
+# Tinnitus treatments
 
-Neurotrophic
+## Surgical
 
+- High-Frequency Focussed Ultrasound (HIFU)
+  - http://sonimodul.ch/
+    - Dr. Daniel Jeanmonod in Switzerland
+- AM-101
+  - Auris Medical
+    - NMDA antagonist
+    - intra-tympanic injection
+- brai2n clinic in Antwerp
+  - http://www.brai2n.com/
 
-* NGF
-Lion's mane (mycellium).
-Consume with vitamin D (also neurotrophic)
+## neurotrophic
 
+- Lion's Mane mushroom, fruiting body and mycellium
+  - NGF
+- vitamin D3
+- ifenprodil
+  - [Production of NGF, BDNF and GDNF in mouse astrocyte cultures is strongly enhanced by a cerebral vasodilator, ifenprodil](http://www.ncbi.nlm.nih.gov/pubmed/15843060)
+- noribogaine
+  - GNF
+- p21
+  - BDNF
+- Emoxipine (Mexifin)
+  - nootropic
+  - even better than cerebrolysin
+- cerebrolysin
+  - nootropic
+- semax
+- actovegin
+- cortexin
+- nsi-189 (phosphate?)
+  - from TrueLIFE Research or TeamTLR
+  - 30 mg sublingually
+- selegiline
+  - various growth factors
 
+## uncategorised
 
-Ifenprodil
-noribogaine (GNF)
-Ptychopetalum olacoides Benth. (Marapuama) (
-anti cholinesterase activity)
+- ptychopetalum olacoides Benth. (Marapuama)
+  - anti cholinesterase activity, GABAa inhibitor
+- bromelain
+  - anti-inflamatory
+- midazolam
+  - benzodiazepine
+  - [Midazolam Reverses Salicylate-Induced Changes
+in Brain-Derived Neurotrophic Factor and Arg3.1 Expression:
+Implications for Tinnitus Perception and Auditory Plasticity](http://molpharm.aspetjournals.org/content/74/3/595.full.pdf)
+- duloxetine
+  - SNRI
 
+## remyelination
 
-bromelain
-
-http://www.sciencedirect.com/science/article/pii/S0149763414001389
-http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0064726
-
-
-midazolam
-http://molpharm.aspetjournals.org/content/74/3/595.full.pdf
-
-benztropine
-http://www.nature.com/nature/journal/v502/n7471/full/nature12647.html
-
-biib033
-remylination
-
-campral
-http://www.webmd.com/mental-health/addiction/news/20050922/alcoholism-drug-may-ease-ringing-in-ears
-
-Fibroblast growth factor
-Valproate
-lithium
-
-Mexifin (even better than cerebrocywlin)
-
-picamillion
-
-Memantine - glutamte protection
-
-p21 - BDNF
-
-Papaverine
-
-brai2n clinic in antwerp
-
- Cerebrolysin - Mexifin. Maybe people here have heard of various russian nootropic / neurotrophic compounds like Semax, Actovegin, Cortexin and Mexidol.
-nsi-189
-cybalta
-N-acetylserotonin - 1 month
-
-Flumazenil
-
-
-
-pramipexole
-
-Linopirdine
-
-Stemetil/stemitil?
-
-Er Ming Zuo Ci Wan
-Chinese herbal medicine
-
-reverse receptor uncoupling
-
-increase Arg3.1 expression
-synaptic plasticity
-
-Methylene Blue
-D-AP5
-NRX-1074
-
-7,8 dihydroxyflavone
-
-
-
-NSI-189 phosphate from TLR today.
-
-Took 30 mg sublingually using a cheap scale
-
-
-
-Isoxazole-9
-Synapto genesis
-
-dihexa
-
-* NT3 (Neurotrophin-3)
-
-tianepetine
-
-* Segiline
-Various growth factors
-
-* Uridine 1.5-2g
-Neuritse
-
-* Vitamin D
-
-Ashwagandha
-Dendrite growth
-
-GABA
-flumazenil
-
-Somebody posted this the other day: http://www.sciencedi...09130570300114X
-
-^^ It talks about a compound in Kudzu root which antagonizes the GABAR but also affects serotoninergic receptors to prevent convulsions normally seen with these antagonists. Might be worth looking into. Also, naloxone and naltrexone (mu opioid antagonists) purportedly upregulated GABA receptors.
-
-http://link.springer...7/s007020050021
+- benztropine
+  - encourage remyelination
+  - [A regenerative approach to the treatment of multiple sclerosis](http://www.nature.com/nature/journal/v502/n7471/full/nature12647.html)
+- biib033
+  - encourage remyelination
 
 
 
 
-Anti-epilepsy
-retigabine - up to 400mgx3 a day
-levetriacetam
+- acamprosate (campral)
+  - http://www.webmd.com/mental-health/addiction/news/20050922/alcoholism-drug-may-ease-ringing-in-ears
+- Fibroblast growth factor
+- sodium valproate
+- lithium
+- picamillion
+  - niacin (vitamin B3) & GABA
+- memantine
+  - glutamte protection
+- papaverine
+- n-acetylserotonin
+  - 1 month
+- flumazenil
+  - GABA antagonist
+- pramipexole
+  - dopamine antagonist
+- linopirdine
+  - brain potassium channels
+- prochlorperazine (Stemetil/stemitil)
+  - dopamine (D2) receptor antagonist
+- Er Ming Zuo Ci Wan
+  - Chinese herbal medicine
 
-Anti-convulsant
-Pregabalin
-Gabapentin
 
-gotu kola
-Bacopa
-2400mg Piracetem (and other recetams) + 300mg cdp choline
-Meditation - zazen?
-pscilocybin
+## reverse receptor uncoupling
 
-GABA upregulation
-afobazole - gaba repair upregulation + taurine
+a disturbance in homeostasis results in an epileptiform auditory phenomenon. Specifically a diminution of inhibition, mediated by a GABA disconnection from excitatory glutamate inputs.
+
+## increase Arg3.1 expression
+
+## synaptic plasticity
+
+- Methylene Blue
+- D-AP5
+  - NMDA receptor antagonist
+- NRX-1074
+
+## neurogeneis
+- 7,8 dihydroxyflavone
+- isoxazole-9
+- dihexa
+- NT3 (Neurotrophin-3)
+- tianepetine
+
+
+- uridine
+  - 1.5-2g
+- Neuritse
+- ashwagandha
+  - dendrite growth
+
+- [NPI-031G (puerarin) reduces anxiogenic effects of alcohol withdrawal or benzodiazepine inverse or 5-HT2C agonists](http://www.sciencedirect.com/science/article/pii/S009130570300114X)
+
+- naloxone and naltrexone
+  - mu opioid antagonists
+  - upregulate GABA receptors
+    - [Naloxone antagonizes GABAA/benzodiazepine receptor function in rat corticohippocampal synaptoneurosomes](http://link.springer.com/article/10.1007%2Fs007020050021)
+
+## anti-epileptic
+- retigabine - up to 400mgx3 a day
+- levetriacetam
+
+## anti-convulsant
+- pregabalin
+- gabapentin
+
+- gotu kola
+- bacopa
+- 2400mg Piracetem (and other recetams) + 300mg cdp choline
+- Meditation - zazen?
+- pscilocybin
+
+- GABA upregulation
+- afobazole - gaba repair upregulation + taurine
 
 Stimulate NT-3
 http://www.longecity.org/forum/topic/52921-best-supplements-to-stimulate-neurotrophic-factors/
@@ -150,48 +152,33 @@ A metabolite of Selegiline, desmethylselegiline, elevates NGF, BDNF, and GDNF. (
 
 
 
-tianeptine
-vinpocetine
-noopept
-idebenone
-picamillion
-Hydergine
-tegretol
-pentoxyfylline
-carbamazepine.
+- tianeptine
+- vinpocetine
+- noopept
+- idebenone
+- picamillion
+- hydergine
+- tegretol
+- pentoxyfylline
+- carbamazepine
 
-acaprosate
+- pramipexole
 
-A disturbance in homeostasis results in an epileptiform auditory phenomenon. Specifically a diminution of inhibition, mediated by a GABA disconnection from excitatory glutamate inputs.
-
-pramipexole
-
-Anyone tried Lipitor or another statin to treat memory loss from Benzo PAWS?
+- lipitor
+  - statin
+  - http://www.ncbi.nlm.nih.gov/pubmed/24191400
 
 
-
-Here's an interesting showing potential effectiveness: http://www.ncbi.nlm....pubmed/24191400
-
-
-agmatine sulphate (will post an article I've written later) (biphasic tolerance repair)
-
- pregabalin or CES biohardware, and keep your sleep routines as rigid as possible, the exact time you sleep matters more than the time you wake up. If fatigue is a problem take 27 to 30 minute power naps if possible.
-
-Tegretol
-
-Cinnarizine or even better Arlevert or Arlevertan...dependig by your country (Cinnarizine + dimenhydrinate). is successfully used for Meniere's disease. It acts as a calcium antagonist on CNS suppressing hyperactivity coming from the periphery (Labyrinth).
-
-neramexane
-
-acamprosate
-
-
-http://www.longecity.org/forum/topic/52921-best-supplements-to-stimulate-neurotrophic-factors/
+- agmatine sulphate
+- CES biohardware
+- tegretol
+- Cinnarizine or even better Arlevert or Arlevertan...dependig by your country (Cinnarizine + dimenhydrinate). is successfully used for Meniere's disease. It acts as a calcium antagonist on CNS suppressing hyperactivity coming from the periphery (Labyrinth).
+- neramexane
+- http://www.longecity.org/forum/topic/52921-best-supplements-to-stimulate-neurotrophic-factors/
 
 
 
-
-lower cholinergic activity
+# lower cholinergic activity
 
 After cochlear damage induced by noise trauma cholinergic activity in the ventral (VCN) and dorsal (DCN) cochlear nucleus is upregulated for up to 2 months (the longest duration studied), suggesting a role for this pathway in adaptations that occur in hearing loss (Jin et al., 2006, Kaltenbach and Zhang, 2007 and Meidinger et al., 2006).
 
@@ -291,21 +278,7 @@ cerebrolysin
 
  Arg3.1 expression
 
+ ## papers
 
-
-# Tinnitus
-
-Treatments
-----------
-
-### Surgical
-
-* High-Frequency Focussed Ultrasound (HIFU)
-  * http://sonimodul.ch/
-    * Dr. Daniel Jeanmonod in Switzerland
-
-
-* AM101
-  * Auris Medical
-    * NMDA antagonist
-    * intra-tympanic injection
+ - [Neuroanatomical abnormalities in chronic tinnitus in the human brain](http://www.sciencedirect.com/science/article/pii/S0149763414001389)
+ - [Tinnitus, Unipolar Brush Cells, and Cerebellar Glutamatergic Function in an Animal Model](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0064726)
